@@ -1,4 +1,3 @@
 # Projet-certification-Python
 
-Prout!
 
